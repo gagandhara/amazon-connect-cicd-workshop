@@ -2,26 +2,26 @@
     "accounts": [
     {
         "env": "dev",
-        "branch": "develop",
+        "branch": "dev",
         "enabled": true,
-        "account": "XXXXXXXXXXXX",
-        "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
+        "account": "596410535335",
+        "region": ["us-west-2"],
+        "app": "DX"
     },
     {
-        "env": "staging",
-        "branch": "staging",
+        "env": "qe",
+        "branch": "qe",
         "enabled": true,
-        "account": "XXXXXXXXXXXX",
+        "account": "492871971871",
         "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
+        "app": "DX"
     },
     {
-        "env": "prod",
-        "branch": "main",
+        "env": "stage",
+        "branch": "stage",
         "enabled": true,
-        "account": "XXXXXXXXXXXZ",
+        "account": "521683796240",
         "region": ["us-east-1", "us-west-2"],
-        "app": "ACME"
+        "app": "DX"
     }]
 }

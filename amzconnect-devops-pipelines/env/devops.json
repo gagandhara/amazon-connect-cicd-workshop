@@ -1,9 +1,9 @@
 {
-    "env": "devops",
-    "account": "XXXXXXXXXXXZ",
-    "region": "us-east-1",
-    "codestarArn": "arn:aws:codestar-connections:us-east-2:XXXXXXXXXXXX:connection/5ab48603-7bae-4a43-a256-XXXXXXXXXXXX",
-    "repo": "forked repo here",
-    "owner": "Your github alias",
-    "email": "your email address"
+    "env": "dev",
+    "account": "596410535335",
+    "region": "us-west-2",
+    "codestarArn": "arn:aws:codestar-connections:us-west-2:596410535335:connection/350e1c6f-a5c2-4ba7-9e93-15a2e209a57d",
+    "repo": "amazon-connect-cicd-workshop",
+    "owner": "Gagan Gupta",
+    "email": "gaggupta@adobe.com"
 }
